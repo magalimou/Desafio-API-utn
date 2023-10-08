@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(238, 238, 229);
+}
+
+h2{
+    text-align: center;
+}
+
+#paraimagen{
+    justify-content: center;
+     display: flex;
+     align-items: center;
+    margin-top: 10rem;}
+
+#imagen{
+    display: block;
+   width: 200px;
+   height: 250px;
+   margin: auto;
+    
+}
+
+#juego{
+
+    display: block; margin: 0 auto; margin-bottom: 10px;
+}
